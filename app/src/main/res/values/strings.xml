@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FHMAtarea5</string>
+    <string name="Tittle">Conversión de datos a Json</string>
+    <string name="NombreString">Nombre:</string>
+    <string name="CorreoString">Correo:</string>
+    <string name="TelefonoString">Teléfono:</string>
+    <string name="EdadString">Edad:</string>
+    <string name="CurpString">Curp:</string>
+    <string name="EstadoString">Estado:</string>
+    <string name="Name">Name</string>
+    <string name="nombre"></string>
+    <string name="correo"></string>
+    <string name="curp"></string>
+    <string name="estado"></string>
+    <string name="boton">Convertir datos a Json</string>
+    <string name="JsonString">Json</string>
+    <string name="json" />
+    <string name="animacion" />
+    <string name="titulo1">Ingresa tus Datos</string>
+</resources>
